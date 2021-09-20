@@ -4,7 +4,7 @@ alembic==1.5.8
 amqp==1.4.9
 anyjson==0.3.3
 appdirs==1.4.4
-apturl==0.5.2
+
 asgiref==3.2.10
 astunparse==1.6.3
 async-timeout==3.0.1
